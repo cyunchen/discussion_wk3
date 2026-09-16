@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(208, 204, 212);
+}
+
+h1{
+    color: yellow;
+    background-color: blue;
+    size: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+
+h2{
+    color:blue;
+    background-color: yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+img{
+    height: 100px;
+    width: 200px;
+    border: 50px solid transparent;
+    border-color: aliceblue;
+}
